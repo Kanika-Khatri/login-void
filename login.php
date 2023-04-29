@@ -66,7 +66,7 @@ if($showError){
 <form action="/loginsystem/login.php" method="POST">
 <div class="container">
     <h1><center>Login</center></h1>
-    <p><center>Not registered yet?<a href="signup.php" style="color:dodgerblue"> Signup Here</a>.</center></p>
+    <p><center>Not registered yet?<a href="index.php" style="color:dodgerblue"> Signup Here</a>.</center></p>
    
     <hr>
    
